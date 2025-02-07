@@ -10,16 +10,16 @@
 :root {
   --main-font: 'Inter', sans-serif;
   --main-color: #b100cc;
-  --background-color: #322034;
+  --background-color: #2d242e;
   --white-color: #FFFFFF;
   --black-color: #000000;
   --description-color: #D2D0D0;
 
-  --green-color: #4AFF6B;
+  --green-color: #9d66c2;
   --ip-copied-background: #9d66c2;
   --ip-copied-icon-background: #9d66c2;
 
-  --copy-ip-button-background: #66c278;
+  --copy-ip-button-background: #9d66c2;
   --how-to-join-button-background: rgba(210, 208, 208, 0.2);
   --stats-background: rgba(210, 208, 208, 0.05);
   --stat-icon-background-2: #9d66c2;
