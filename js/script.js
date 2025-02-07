@@ -7,9 +7,9 @@ If something doesn't work please contact me on discord (Astronawta#0012).
 const config = {
     serverInfo: {
         serverLogoImageFileName: "logo.png", /*This is a file name for logo in /images/ (If you upload new logo with other name, you must change this value)*/
-        serverName: "The Glade MC", /*Server name*/
-        serverIp: "play.theglademc.us", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
-        discordServerID: "1334550553954619464" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
+        serverName: "The Quantum Zone", /*Server name*/
+        serverIp: "play.thequantumzone.net", /*Server IP (if you want to add online user counter, you must have true the enable-status and enable-query of server.properties)*/
+        discordServerID: "1287809531493220414" /*Your server ID (if you want to add online user counter, you must have enabled Discord server widget)*/
     },
 
     /*Admin-Team
@@ -46,19 +46,19 @@ const config = {
     adminTeamPage: {
         leaders: [
             {
-                inGameName: "ChevLeftUs",
+                inGameName: "unrivalry",
                 rank: "Organizer",
                 skinUrlOrPathToFile: "",
                 rankColor: "#66c278"
             },
-
+/*
             {
                 inGameName: "Venom_Games",
                 rank: "Organizer",
                 skinUrlOrPathToFile: "",
                 rankColor: "#66c278"
             },
-            
+        */
         ],
     
         
