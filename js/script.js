@@ -38,7 +38,7 @@ const config = {
     */
     userSKinTypeInAdminTeam: "bust", /*[full, bust, head, face, front, frontFull, skin]*/
     atGroupsDefaultColors: {
-        leaders: "#6eff81",
+        leaders: "rgb(112, 15, 112)",
         developers: "rgba(230, 83, 0, 0.5)",
         helpers: "rgba(11, 175, 255, 0.5)",
         builders: "rgba(247, 2, 176, 0.5)",
@@ -47,7 +47,7 @@ const config = {
         leaders: [
             {
                 inGameName: "unrivalry",
-                rank: "Organizer",
+                rank: "Owner",
                 skinUrlOrPathToFile: "",
                 rankColor: "#66c278"
             },
